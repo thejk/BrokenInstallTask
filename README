@@ -1,0 +1,6 @@
+ Run `./gradlew installDebug` to show the problem:
+
+* What went wrong:
+Execution failed for task ':app:installDebug'.
+> A failure occurred while executing com.android.build.gradle.internal.tasks.InstallVariantViaBundleTask$InstallRunnable
+   > java.lang.StackOverflowError (no error message)
